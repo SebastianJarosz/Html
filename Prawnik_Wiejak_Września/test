@@ -1,0 +1,44 @@
+<div class="container">
+        <!-- Three columns of text -->
+
+          <div id="about_Us">
+            <div class="p-2">
+              <h1 class="display-4 text-black text-left text-center"><strong>O nas</strong></h1>
+              <hr class="white-hr">
+              <h4 class="text-black-50 text-left text-center">Sed porttitor diam quis porta elementum. Ut faucibus turpis in nulla cursus, quis dictum tellus laoreet. Donec in diam tristique, rhoncus nisi in, consequat turpis.</h4>
+            </div>
+              <!-- podział na kolumny -->
+              <div class="row center p-2">
+                  <div class="col-lg-4">
+                    <div class="marketing">
+                      <div class="my-rounded-circle"><i class="demo-icon icon-gauge"></i> </i></div>
+                      <br>
+                      <h2 class="text-center">Aliquam cursus augue vita </h2>
+                      <br>
+                      <p class="text-center">Aliquam cursus augue vitae urna malesuada, et tempor metus rhoncus. Maecenas convallis ante lorem. Pellentesque aliquam et nulla ac tempor. </p>
+                    </div>
+                      
+                  </div><!-- /.col-lg-4 -->
+                  <div class="col-lg-4 ">
+                    <div class="marketing">
+                      <div class="my-rounded-circle"><i class="demo-icon icon-cube"></i></div>
+                      <br>
+                      <h2  class="text-center">Quisque congue</h2>
+                      <br>
+                      <p class="text-center">Quisque congue sodales nulla, enec augue augue, euismod non scelerisque at, ultrices eu neque. Sed id tempor sapien, non elementum magna.<p>
+                    </div>
+
+                  </div><!-- /.col-lg-4 -->
+                  <div class="col-lg-4">
+                    <div class="marketing">
+                      <div class="my-rounded-circle"><i class="demo-icon icon-wrench"></i></div>
+                      <br>
+                      <h2  class="text-center">Lorem</h2>
+                      <br>
+                      <p class="text-center">Lorem ipsum dolor sit amet, cons amet mauris faucibus semper eu nec arcu.</p>
+                    </div>
+                     
+                  </div><!-- /.col-lg-4 -->
+              </div><!-- /.row -->
+          </div>
+      </div><!-- /.container -->
